@@ -153,7 +153,7 @@ The lib is built on top of some generated files like the design-tokens or the ic
 
 #### Generated Icons font
 
-We generated an optimized version of the material-symbold-rounded font that we use for our icons. The whole font contains thousands of icons and weighs more than 4Mb, so we generate a subset of it containing only the icons we use in the design system, reducing its size to a few Kb.
+We generated an optimized version of the material-symbols-rounded font that we use for our icons. The whole font contains thousands of icons and weighs more than 4Mb, so we generate a subset of it containing only the icons we use in the design system, reducing its size to a few Kb.
 
 If you add new icons you must run the following command to generate the new optimized font:
 
